@@ -4,8 +4,7 @@
 package org.example;
 
 public class App {
-    public String getGreeting() {
-        return "Hello World!";
+    public String getGreeting() {return "Hello from Gradle and Jenkins!";
     }
 
     public static void main(String[] args) {
